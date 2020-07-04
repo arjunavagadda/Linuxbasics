@@ -1,0 +1,199 @@
+    1  sudo apt update
+    2  clear
+    3  pwd
+    4  cat > demofile
+    5  cls
+    6  clear
+    7  ls
+    8  cat demofile 
+    9  cat > demo2
+   10  cls
+   11  clear
+   12  grep "vi" *
+   13  grep -l "vi" *
+   14  clear
+   15  esit
+   16  exit
+   17  ls
+   18  python3
+   19  python3 sample.py
+   20  clear
+   21  lsb_release -a
+   22  cat /etc/release*
+   23  cat /etc/*release*
+   24  clear
+   25  ls
+   26  code .
+   27  cls
+   28  clear
+   29  ls
+   30  cat demo2
+   31  cls
+   32  clear
+   33  cat sample.py
+   34  cat > sample.py
+   35  cls
+   36  clear
+   37  cd /
+   38  ls
+   39  clear
+   40  grep "v[aeiou]edi" demo
+   41  grep "v[aeiou]edi" demo2
+   42  ls
+   43  cd /home/arjun/
+   44  ls
+   45  grep "v[aeiou]edi" demo2
+   46  grep "t[aehiou]" demo2
+   47  grep -i -n "t[aehiou]" demo2
+   48  clear
+   49  ls
+   50  clear
+   51  python3
+   52  clear
+   53  sudo apt update
+   54  clear
+   55  sudo apt-get updat
+   56  sudo apt-get update
+   57  clear
+   58  ls
+   59  vi sample.py 
+   60  cat sample.py 
+   61  clear
+   62  cd /bin
+   63  ls
+   64  cd bash
+   65  cat bash
+   66  clear
+   67  cd /home/arjun/
+   68  ls
+   69  clear
+   70  exit
+   71  lsb_release -a
+   72  clear
+   73  ls
+   74  vi demo2
+   75  clear
+   76  vi demo2
+   77  clear
+   78  ls -l
+   79  cleat
+   80  clear
+   81  cat /etc/*release*
+   82  clear
+   83  ls
+   84  cat demo2
+   85  tail -1 demo2
+   86  head -3 demo2 | tail -1
+   87  clear
+   88  ls
+   89  cat demo2
+   90  mv demo demo2
+   91  mv demo2 demo
+   92  clear
+   93  ls
+   94  cat demo
+   95  grep -i "^[ahed]" demo
+   96  grep -i -n "^[ahed]" demo
+   97  clear
+   98  history
+   99  clear
+  100  ls
+  101  cat history_file
+  102  touch history_file
+  103  ls
+  104  clear
+  105  history > history_file 
+  106  ls
+  107  cat history_file 
+  108  clear
+  109  git
+  110  clear
+  111  ls
+  112  mkdir historycmd
+  113  ls
+  114  man mv
+  115  mv history_file ./historycmd
+  116  ls
+  117  clear
+  118  ls
+  119  cd historycmd
+  120  ls
+  121  git init
+  122  clear
+  123  git status
+  124  git commit -m "historycommands-7/4/2020" 
+  125  git config --global user.email "arjunavagadda207@gmail.com"
+  126  git config --global user.name "Arjun"
+  127  git config -all
+  128  clear
+  129  git config -a
+  130  git config -l
+  131  clear
+  132  git commit -m "historycommands-7/4/2020" 
+  133  git add -all
+  134  git add -a
+  135  git add -A
+  136  clear
+  137  git status
+  138  git commit -m "historycommands-7/4/2020" 
+  139  clear
+  140  git status
+  141  git remote add origin "https://github.com/arjunavagadda/Linuxbasics.git"
+  142  clear
+  143  git push -u origin master
+  144  git config --global credential.helper store
+  145  git pull
+  146  git pull origin master
+  147  git push -u origin master
+  148  clear
+  149  ls
+  150  ls -l
+  151  ls -a
+  152  clear
+  153  git status
+  154  git pull origin master
+  155  git pull --rebase master
+  156  git pull --rebase Linuxbasics
+  157  clear
+  158  git pull origin master
+  159  git pull --allow-unrelated-histories origin master
+  160  git push -u origin master
+  161  clear
+  162  git status
+  163  git log
+  164  clear
+  165  ls
+  166  cat history_file 
+  167  clear
+  168  history
+  169  clear
+  170  ls
+  171  man rm
+  172  rm -f history_file 
+  173  clear
+  174  ls
+  175  cd ..
+  176  ls
+  177  cat demo
+  178  cat >> demo
+  179  clear
+  180  ls
+  181  cat demo
+  182  clear
+  183  ls
+  184  cd historycmd/
+  185  ls
+  186  history
+  187  clear
+  188  history > history-7/4/2020
+  189  history > cat history-7/4/2020
+  190  ls
+  191  rm -f cat
+  192  ls
+  193  clear
+  194  cat history-7/4/2020
+  195  touch history-7/4/2020
+  196  touch history_07_04_2020
+  197  ls
+  198  clear
+  199  history > history_07_04_2020 
