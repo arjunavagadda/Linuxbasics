@@ -1,0 +1,7 @@
+IFS="-"
+echo "number of arguments: $#"
+echo "script file : $0"
+echo "first argument : $1"
+echo "second argument : $2"
+echo "all arguments : $*"
+echo "all arguments : $@"
